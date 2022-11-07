@@ -1,3 +1,3 @@
 #!/bin/bash
-x=100
+x=10
 echo $x
